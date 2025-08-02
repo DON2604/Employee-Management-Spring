@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:9090';
+const API_URL = 'https://employee-management-spring-production.up.railway.app';
 
 class EmployeeService {
   getAllEmployees() {
